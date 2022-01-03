@@ -1,0 +1,23 @@
+.product-list {
+}
+
+.product {
+}
+
+.product:hover {
+    background-color: rgb(218, 218, 218);
+    cursor: pointer;
+}
+
+.product-img img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.product-name {
+    font-weight: bold;
+    color: dark;
+}
+
+.product-price {
+}
